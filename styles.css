@@ -1,0 +1,13 @@
+body{
+    display: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+}    
+button{
+    width:60px;
+    height: 30px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background:linear-gradient(pink,purple)
+}
